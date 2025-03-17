@@ -1,0 +1,46 @@
+{
+  "name": "Pokedex",
+  "short_name": "Pokedex",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#4ba3da",
+  "theme_color": "#4ba3da",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/favicon16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/tile70x70.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/tile150x150.png",
+      "type": "image/png",
+      "sizes": "270x270"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/tile310x310.png",
+      "type": "image/png",
+      "sizes": "558x558"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AlecANL/pokedex-vanilla/main/src/icons/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
